@@ -7,4 +7,8 @@ This project consists of providing a simple connection interface and using best 
 pt
 Esse projeto consciste em proporcionar uma interface de conexao simples e utilizando boas praticas para usuarios de sistemas client/server cujo o client seja desenvolvido utilizando o framework laravel.
 
+## how to use
+
+
+
 
