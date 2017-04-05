@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+# Would skip repository vendor/anlutro/curl
+vendor/
+Would skip repository vendor/anlutro/curl
+vendor/danielstjules
+vendor/symfony
+vendor/doctrine
+vendor/firebase
+vendor/illuminate
+vendor/autoload.php
+vendor/nesbot
+vendor/psr
+vendor/composer
